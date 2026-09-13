@@ -9,7 +9,7 @@ public class Game
     public void ValidatePrice()
     {
         // Проверка: цена не должна быть отрицательной 
-        if (Price < 0) throw new ArgumentException("Price cannot be negative");
+        if (Price <= 0) throw new ArgumentException("Price cannot be negative");
     }
     public string Genres { get; set; }
     public string Tags { get; set; }

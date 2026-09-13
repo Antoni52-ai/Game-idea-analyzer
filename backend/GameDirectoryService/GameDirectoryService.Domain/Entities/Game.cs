@@ -8,6 +8,7 @@ public class Game
     public decimal Price { get; set; }
     public void ValidatePrice()
     {
+        // Проверка: цена не должна быть отрицательной 
         if (Price < 0) throw new ArgumentException("Price cannot be negative");
     }
     public string Genres { get; set; }

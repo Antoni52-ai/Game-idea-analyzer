@@ -1,0 +1,12 @@
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Domain\bin\Debug\net10.0\GameDirectoryService.Domain.deps.json
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Domain\bin\Debug\net10.0\GameDirectoryService.Domain.dll
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Domain\bin\Debug\net10.0\GameDirectoryService.Domain.pdb
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Domain\obj\Debug\net10.0\GameDirectoryService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Domain\obj\Debug\net10.0\GameDirectoryService.Domain.AssemblyInfoInputs.cache
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Domain\obj\Debug\net10.0\GameDirectoryService.Domain.AssemblyInfo.cs
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Domain\obj\Debug\net10.0\GameDirectoryService.Domain.csproj.CoreCompileInputs.cache
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Domain\obj\Debug\net10.0\GameDirectoryService.Domain.sourcelink.json
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Domain\obj\Debug\net10.0\GameDirectoryService.Domain.dll
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Domain\obj\Debug\net10.0\refint\GameDirectoryService.Domain.dll
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Domain\obj\Debug\net10.0\GameDirectoryService.Domain.pdb
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Domain\obj\Debug\net10.0\ref\GameDirectoryService.Domain.dll

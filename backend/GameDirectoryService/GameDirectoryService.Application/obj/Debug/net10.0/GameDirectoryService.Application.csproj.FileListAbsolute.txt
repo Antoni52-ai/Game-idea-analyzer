@@ -1,0 +1,16 @@
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\bin\Debug\net10.0\GameDirectoryService.Application.deps.json
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\bin\Debug\net10.0\GameDirectoryService.Application.dll
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\bin\Debug\net10.0\GameDirectoryService.Application.pdb
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\bin\Debug\net10.0\GameDirectoryService.Domain.dll
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\bin\Debug\net10.0\GameDirectoryService.Domain.pdb
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\obj\Debug\net10.0\GameDirectoryService.Application.csproj.AssemblyReference.cache
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\obj\Debug\net10.0\GameDirectoryService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\obj\Debug\net10.0\GameDirectoryService.Application.AssemblyInfoInputs.cache
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\obj\Debug\net10.0\GameDirectoryService.Application.AssemblyInfo.cs
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\obj\Debug\net10.0\GameDirectoryService.Application.csproj.CoreCompileInputs.cache
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\obj\Debug\net10.0\GameDirectoryService.Application.sourcelink.json
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\obj\Debug\net10.0\GameDire.CB428352.Up2Date
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\obj\Debug\net10.0\GameDirectoryService.Application.dll
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\obj\Debug\net10.0\refint\GameDirectoryService.Application.dll
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\obj\Debug\net10.0\GameDirectoryService.Application.pdb
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Application\obj\Debug\net10.0\ref\GameDirectoryService.Application.dll

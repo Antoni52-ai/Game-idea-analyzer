@@ -1,0 +1,5 @@
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Infrastructure\obj\Debug\net8.0\GameDirectoryService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Infrastructure\obj\Debug\net8.0\GameDirectoryService.Infrastructure.AssemblyInfoInputs.cache
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Infrastructure\obj\Debug\net8.0\GameDirectoryService.Infrastructure.AssemblyInfo.cs
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Infrastructure\obj\Debug\net8.0\GameDirectoryService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\WorkSpace\project\Analyzer\backend\GameDirectoryService\GameDirectoryService.Infrastructure\obj\Debug\net8.0\GameDirectoryService.Infrastructure.sourcelink.json
